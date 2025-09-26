@@ -7,8 +7,6 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{02EA681E
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolverTests", "SolverTests\SolverTests.csproj", "{0D4D7085-A9BA-4816-9BD8-D5F758303B85}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{360B945A-FC5F-44B0-8AA7-166D98E56022}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hackathon", "hackathon\hackathon.csproj", "{930A165D-FB65-4E22-90F0-48DBBCDFCBFC}"
 EndProject
 Global
@@ -31,7 +29,6 @@ Global
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{0D4D7085-A9BA-4816-9BD8-D5F758303B85} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
-		{930A165D-FB65-4E22-90F0-48DBBCDFCBFC} = {360B945A-FC5F-44B0-8AA7-166D98E56022}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {464CF620-3FF2-47D0-8BD1-9DB218E4EC89}
