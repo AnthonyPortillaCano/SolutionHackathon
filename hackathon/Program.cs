@@ -1,6 +1,7 @@
 ﻿
 
 // Example 1
+
 int[] teamSize1 = { 1, 2, 9, 7, 6, 6, 6 };
 int k1 = 2;
 int[] output1 = Solver.EqualizeTeamSizeArray(teamSize1, k1);
