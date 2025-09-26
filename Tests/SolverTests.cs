@@ -1,4 +1,4 @@
-namespace SolverTests
+namespace Tests
 {
     public class SolverTests
     {
